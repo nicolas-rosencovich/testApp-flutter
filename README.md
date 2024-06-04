@@ -1,6 +1,7 @@
 # flutter_application_2
 
 A new Flutter project.
+<img width="99" alt="image" src="https://github.com/nicolas-rosencovich/testApp-flutter/assets/139424337/664310f3-ab67-46a2-896d-efce9ab451d8">
 
 ## Getting Started
 
